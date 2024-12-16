@@ -1,4 +1,7 @@
-# Dashboard
+# BioML Dashboard
+
+Placeholder Image:
+![image](https://github.com/user-attachments/assets/9c39ad5c-90dc-44ce-a369-a565cb98abf7)
 
 
 ## List of Gradio Module to be included
