@@ -1,0 +1,31 @@
+[services]
+solver = "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
+mediator = ["0x7B49d6ee530B0A538D26E344f3B02E79ACa96De2"]
+api_host = ""
+dashboard="https://github.com/RareCompute/dashboard"
+[web3]
+http_rpc_url = "https://rpc.arsenum.com"
+rpc_url = "wss://wss.orbit.arsenum.com"
+chain_id = 68283778764
+controller_address = "0xa85233C63b9Ee964Add6F2cffe00Fd84eb32338f"
+payments_address = "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6"
+storage_address = "0xB7f8BC63BbcaD18155201308C8f3540b07f84F5e"
+users_address = "0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82"
+token_address = "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853"
+mediation_address = "0x0B306BF915C4d645ff596e518fAf3F9669b97016"
+jobcreator_address = "0x9A9f2CCfdE556A7E9Ff0848998Aa4a0CFD8863AE"
+pow_address = "0x4ed7c70F96B99c776995fB64377f0d4aB3B0e1C1"
+
+[ipfs]
+addr = "/dns4/ipfs/tcp/5001"
+
+[telemetry]
+url = "https://observe.lilypad.tech"
+token = "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJ1c2VyIjoicmVzb3VyY2UtcHJvdmlkZXIifQ.n36M_ngwC4XPQ_pEkkWAnPiOinnx6-0VO1v_WgCTUEERD7b_p9KHCU6SY5bUdFh5UXRZHAhc1gfyc7rjAnmeDQ"
+
+[offer]
+gpu=1
+modules = "github.com/Lilypad-Tech/lilypad-module-cowsay:v0.0.4, https://github.com/Lilypad-Tech/lilypad-module-sdxl-pipeline:v1.2.0"
+
+[disable]
+telemetry=1
