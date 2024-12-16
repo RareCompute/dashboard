@@ -1,0 +1,34 @@
+[
+    {
+        "name": "EnzymeFlow",
+        "description": "Generating Reaction-specific Enzyme Catalytic Pockets through Flow-Matching and Co-Evolutionary Dynamics",
+        "module": "github.com/RareCompute/EnzymeFlow:main",
+        "runs": 1443,
+        "logo": "example-logo.png",
+        "verificationCheck": true
+    },
+    {
+        "name": "NucleusDiff",
+        "description": "Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design",
+        "module": "github.com/RareCompute/NucleusDiff:main",
+        "runs": 1443,
+        "logo": "example-logo.png",
+        "verificationCheck": true
+    },
+    {
+        "name": "Boltz-1",
+        "description": "Democratizing Biomolecular Interaction Modeling",
+        "module": "github.com/RareCompute/boltz:main",
+        "runs": 1443,
+        "logo": "example-logo.png",
+        "verificationCheck": true
+    },
+    {
+        "name": "Syntheseus",
+        "description": "Package for end-to-end retrosynthetic planning.",
+        "module": "github.com/RareCompute/syntheseus:main",
+        "runs": 7654,
+        "logo": "example-logo.png",
+        "verificationCheck": true
+    }
+]
