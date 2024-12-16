@@ -24,3 +24,35 @@ Guide:
 6. Iterate and refine: As with any machine learning model, ProTrek can be improved through iterative refinement. Researchers should continue to evaluate the model's performance on new data and adjust the parameters as needed to optimize its accuracy.
 
 https://github.com/westlake-repl/ProTrek
+
+
+https://github.com/amelie-iska/EnzymeFlow
+https://github.com/amelie-iska/NucleusDiff
+https://github.com/amelie-iska/boltz
+https://github.com/amelie-iska/syntheseus
+https://github.com/amelie-iska/ChemLactica
+https://github.com/chaidiscovery/chai-lab
+https://github.com/amelie-iska/celltraj
+https://github.com/amelie-iska/ChatCell
+https://github.com/amelie-iska/mdgen
+https://github.com/amelie-iska/cellxgene
+https://github.com/amelie-iska/RFdiffusion
+https://github.com/amelie-iska/ProtRAP-LM
+https://github.com/amelie-iska/RGFN
+https://github.com/amelie-iska/PepGLAD
+https://github.com/amelie-iska/scDiff
+https://github.com/amelie-iska/protein_generator
+https://github.com/amelie-iska/AnyMolGenCritic
+https://github.com/amelie-iska/ReactZyme
+https://github.com/amelie-iska/ldmol
+https://github.com/amelie-iska/OAReactDiff
+https://github.com/amelie-iska/ProteinDT
+https://github.com/amelie-iska/LigandMPNN
+https://github.com/amelie-iska/DiffPepBuilder/tree/main
+https://github.com/amelie-iska/MMseqs2-App
+https://github.com/amelie-iska/DrugHIVE
+https://github.com/amelie-iska/RetroGFN
+https://github.com/amelie-iska/GIT-Mol
+https://github.com/amelie-iska/rnaflow
+https://github.com/amelie-iska/MoleculeSTM
+https://github.com/amelie-iska/encore
